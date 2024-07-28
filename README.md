@@ -13,29 +13,17 @@ Together, we visualize the applications and influence of real-time pathfinding t
 | ------------- | ------------- | ---- |
 | SIGGRAPH Labs Program | Lab session details and information | [SIGGRAPH 2024](https://s2024.conference-program.org/presentation/?id=gensub_250&sess=sess268) |
 | Labs Paper | Paper publication link | [ACM DL](https://dl.acm.org/doi/10.1145/3641236.3664419) |
-| Course Website | Course website and information | [makers of siggraph](https://dl.acm.org/doi/10.1145/3641236.3664419) |
+| Course Website | Course website and information | [Webiste](https://makers-of-siggraph24.vercel.app/) |
 
 ## Requirements
-  * VSCode Extension:
-       * [Visual Studio Code 1.82.0](https://code.visualstudio.com/)
-       * [Axios](https://www.npmjs.com/package/axios)
-       * [Codicon](https://microsoft.github.io/vscode-codicons/dist/codicon.html)
-       * [Your First VSCode Extension](https://code.visualstudio.com/api/get-started/your-first-extension)
-       * [Fast XML Parser](https://www.npmjs.com/package/fast-xml-parser)
-  * Unity:
+  * Unreal Engine:
+       * [Unreal Engine 5.4.3](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5.4-release-notes)
+       * [Unreal Neural Network Engine (NNE)](https://dev.epicgames.com/community/learning/courses/e7w/unreal-engine-neural-network-engine-nne/G3rx/unreal-engine-nne-overview-5-3)
+       * [MetaHuman Plugin](https://www.unrealengine.com/marketplace/en-US/product/metahuman-plugin)
+       * [MetaHuman Creator](https://www.unrealengine.com/en-US/metahuman)
+  * Other:
        * [Git Large File Storage](https://git-lfs.com/)
-       * [Unity 2022.3.7f1](https://unity.com/releases/lts)
-       * [Input System 1.6.3](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.7/manual/index.html)
-       * [Unity Render Streaming 3.1.0-exp.6](https://github.com/Unity-Technologies/UnityRenderStreaming) (Experimental)
-       * [Unity WebRTC 2.4.0.exp.6](https://github.com/Unity-Technologies/com.unity.webrtc) (Experimental)
-  * Run Octocat Game:
-       * [AI Navigation 1.1.4](https://docs.unity3d.com/Packages/com.unity.ai.navigation@2.0/manual/index.html)
-       * [Cinemachine 2.9.7](https://docs.unity3d.com/Packages/com.unity.cinemachine@2.3/manual/index.html)
-       * [Unity UI 1.0.0](https://docs.unity3d.com/Manual/UIElements.html)
-       * [Unity Asset Store](https://assetstore.unity.com/)
-       * [MudBun](https://assetstore.unity.com/packages/tools/particles-effects/mudbun-volumetric-vfx-modeling-177891)
-       * [Build your own octocat](https://myoctocat.com/)
-       * Model your own 3D Octocat in Blender or Unity!
+       * [Kenny Assets: Survival Kit](https://kenney.nl/assets/survival-kit)
          
 ## Set Up
 
