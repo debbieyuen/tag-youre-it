@@ -14,6 +14,7 @@ Together, we visualize the applications and influence of real-time pathfinding t
 | SIGGRAPH Labs Program | Lab session details and information | [SIGGRAPH 2024](https://s2024.conference-program.org/presentation/?id=gensub_250&sess=sess268) |
 | Labs Paper | Paper publication link | [ACM DL](https://dl.acm.org/doi/10.1145/3641236.3664419) |
 | Course Website | Course website and information | [Webiste](https://makers-of-siggraph24.vercel.app/) |
+| Lecture Slides | Tuesday's presentatioin | [Keynote Presentation](https://www.icloud.com/keynote/096aiWD4gmMaO3H6UcYWgKElg#SIGGRAPH%5FFinal} |
 
 ## Requirements
   * Unreal Engine:
