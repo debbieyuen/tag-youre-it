@@ -1,8 +1,6 @@
 # Created by Kenney (www.kenney.nl)
 
-newmtl woodDark
-Kd 0.738 0.4593361 0.254166
-
-newmtl wood
-Kd 0.9433962 0.5880603 0.3248487
+newmtl colormap
+Kd 1 1 1
+map_Kd Textures/colormap.png
 
