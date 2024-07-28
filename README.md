@@ -21,6 +21,7 @@ Together, we visualize the applications and influence of real-time pathfinding t
        * [Unreal Neural Network Engine (NNE)](https://dev.epicgames.com/community/learning/courses/e7w/unreal-engine-neural-network-engine-nne/G3rx/unreal-engine-nne-overview-5-3)
        * [MetaHuman Plugin](https://www.unrealengine.com/marketplace/en-US/product/metahuman-plugin)
        * [MetaHuman Creator](https://www.unrealengine.com/en-US/metahuman)
+       * [Environment Query System](https://dev.epicgames.com/documentation/en-us/unreal-engine/environment-query-system-overview-in-unreal-engine?application_version=5.4)
   * Other:
        * [Git Large File Storage](https://git-lfs.com/)
        * [Kenny Assets: Survival Kit](https://kenney.nl/assets/survival-kit)
