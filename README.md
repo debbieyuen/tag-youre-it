@@ -31,41 +31,7 @@ Together, we visualize the applications and influence of real-time pathfinding t
 
 Fork or clone the entire repo
 ```bash
-$ git clone https://github.com/debbieyuen/vscode-unityscripting
+$ git clone https://github.com/debbieyuen/tag-youre-it
 ```
 
-Make sure you have Git and Node.js. Then, install Yeoman and VS Code Extension Generator
-```bash
-$ npm install -g yo generator-code
-```
-
-Install the Axios API for the VSCode Extension
-```bash
-$ npm install axios
-```
-
-Install Fast XML Parser for the VSCode Extension
-```bash
-$ npm install fast-xml-parser
-```
-
-For the Unity project, install Git LFS
-```bash
-$ git lfs install
-```
-
-Within the Unity **Package Manager**, install `Unity Render Streaming` and `WebRTC` via git URL
-```bash
-com.unity.webrtc@2.4.0-exp.8
-com.unity.renderstreaming@3.1.0-exp.6
-```
-
-Within the Unity **Render Streaming/ Render Streaming Wizard**, click on the **Download latest version of web app.** button. If you are on a Mac, run the following commands in terminal. 
-```bash
-chmod +x webserver_mac
-./webserver_mac -p 3030
-```
-
-Create a new settings asset for Render Streaming and input the signaling type and URL.
-<img width="1280" alt="Screenshot 2023-11-05 at 4 39 16 PM" src="https://github.com/debbieyuen/vscode-unityscripting/assets/31296177/6e6b18f0-69f9-4890-87a9-0e3077e79e98">
 ## Credits and References 
